@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm working on my IT project<br>I'm learning English and Polish<br>I'm learning JS and Polish
+I'm working on my IT project<br>I'm learning English and Polish<br>I'm learning JS, TS, React.
 
 
 ## 🌐 Socials:
